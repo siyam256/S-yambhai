@@ -1,0 +1,6 @@
+{
+  "name": "MCQ Builder",
+  "description": "একটি স্থানীয় পিডিএফ ইঞ্জিন সহ এমসিকিউ প্রশ্নপত্র তৈরি করার অ্যান্ড্রয়েড অ্যাপ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
